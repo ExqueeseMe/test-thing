@@ -1,0 +1,11 @@
+.d {
+    color:blue
+}
+
+.b {
+    background-color: slateblue;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 0px 50px
+}
